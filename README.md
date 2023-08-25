@@ -1,2 +1,2 @@
 # fiji-macros
-Miscellaneous image processing macros for FIJI used by the Colón-Ramos lab
+Image processing macros for FIJI written and used for Wolfe et. al, 2023. 
