@@ -1,5 +1,5 @@
 # Scripts for HYlight analysis in worms
-Written by Aaron Wolfe -- @beowulfey on github. 
+Written by Aaron Wolfe.
 
 These FIJI macros were used for analyzing HYlight data in C. elegans as described in Wolfe, A.D. et al, 2023. 
 
